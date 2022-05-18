@@ -1,20 +1,18 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Jaganmohanreddy Mukkala
+========================================
 
-<a href="https://www.linkedin.com/in/mukkalajagan/" target="_blank">
-  <img align="left" alt="Jagan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-&nbsp;
-<a href="https://twitter.com/mukkalajagan" target="_blank">
-  <img align="left" alt="Jaganmohanreddy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-&nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=mukkalajagan.mukkalajagan)
+.NET Full Stack Developer
+-------------------------
 
-<br />
-Hi, I'm Jaganmohanreddy, a passionate self-taught Full Stack web developer from India. I believe that sharing the knowledge with others will help one to become a true self.
-  
-- 💬 Ask me about anything, I am happy to help you in any possible way I can;
-- 📫 How to reach out to me: [@mukkalajagan](https://twitter.com/mukkalajagan);
+
+- 🌍 I'm based in Bengaluru
+- 🔭 I’m currently working on .NET / .NET Core / Angular
+- 🧠 I’m currently learning  React
+- 👯 I’m looking to collaborate on both front-end & back-End technologies
+- 🤔 I’m looking for help with Angular / React / Vue / Node.js / ASP.NET Core
+- 💬 Ask me about ASP.NET Core / C# / Angular / React / Vue / Node.js
+- 🖥️ See my portfolio at [GitHub Pages](http://mukkalajagan.github.io/)
+- 📫 Reach me at: [@mukkalajagan](https://twitter.com/mukkalajagan)
 
 
 ### Skills
@@ -44,6 +42,6 @@ Hi, I'm Jaganmohanreddy, a passionate self-taught Full Stack web developer from 
 
 ### 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mukkalajagan&show_icons=true&theme=gotham" alt="mukkalajagan" />
-&nbsp;
+<a href="http://www.github.com/mukkalajagan"><img src="https://github-readme-stats.vercel.app/api?username=mukkalajagan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mukkalajagan's GitHub stats" /></a>
+
 <a href="https://github.com/mukkalajagan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukkalajagan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
