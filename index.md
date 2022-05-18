@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/mukkalajagan/" target="_blank">
   <img align="left" alt="Jagan's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>&nbsp;
+</a>
+&nbsp;
 <a href="https://twitter.com/mukkalajagan" target="_blank">
   <img align="left" alt="Jaganmohanreddy | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
