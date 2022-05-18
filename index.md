@@ -5,7 +5,7 @@ Jaganmohanreddy Mukkala
 -------------------------
 
 
-- 🌍 I'm based in Bengaluru
+- 🌍 I'm based in India
 - 🔭 I’m currently working on .NET / .NET Core / Angular
 - 🧠 I’m currently learning  React
 - 👯 I’m looking to collaborate on both front-end & back-End technologies
